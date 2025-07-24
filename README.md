@@ -1,4 +1,6 @@
 # Pokédex Browser
+<img width="2559" height="1466" alt="image" src="https://github.com/user-attachments/assets/9e149bd6-7aa3-4775-9b4b-bec97aa70ec5" />
+
 
 A responsive and performant Pokémon browser built using **React** and **TypeScript**,
 This application displays Pokémon in two views — **pagination** and **load more** — with detailed pages for each Pokémon, and polished handling of loading and error states.
