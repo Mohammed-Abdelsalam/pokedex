@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: process.env.BASE_URL || "https://pokeapi.co/api/v2",
+  baseURL: "https://pokeapi.co/api/v2",
   timeout: 10000,
 });
 

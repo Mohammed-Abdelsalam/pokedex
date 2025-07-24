@@ -1,3 +1,5 @@
-export const LoadMore = () => {
-  return <div>LoadMore</div>;
-};
+import Home from "./Home";
+
+const LoadMore = () => <Home />;
+
+export default LoadMore;
